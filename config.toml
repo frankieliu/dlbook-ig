@@ -1,4 +1,12 @@
-baseURL = "http://frankieliu.org/dlbook-ig"
+baseURL = "http://frankliu.org/dlbook-ig"
+# relativeURLs = true
+# uglyURLs = true
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+pygmentsCodeFences = true
+# pygmentsUseClasses = true
+# pygmentsUseClassic = false
+canonifyURLs = true
+SectionPagesMenu = "main"
+
