@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://frankieliu.org/dlbook-ig/</link>
+    <link>http://frankliu.org/dlbook-ig/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2019 18:54:39 -0800</lastBuildDate>
     
-	<atom:link href="http://frankieliu.org/dlbook-ig/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://frankliu.org/dlbook-ig/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://frankieliu.org/dlbook-ig/posts/my-first-post/</link>
+      <link>http://frankliu.org/dlbook-ig/posts/my-first-post/</link>
       <pubDate>Tue, 05 Nov 2019 18:54:39 -0800</pubDate>
       
-      <guid>http://frankieliu.org/dlbook-ig/posts/my-first-post/</guid>
+      <guid>http://frankliu.org/dlbook-ig/posts/my-first-post/</guid>
       <description></description>
     </item>
     
