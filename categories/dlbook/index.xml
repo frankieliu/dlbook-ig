@@ -17,7 +17,7 @@
       <pubDate>Wed, 06 Nov 2019 21:16:37 -0800</pubDate>
       
       <guid>https://frankliu.org/dlbook-ig/posts/chapter01-introduction/</guid>
-      <description>introduction  Deep learning solves the central problem in representation learning problem: find the right representation for data, e.g. polar vs rect coordinates  Another perspective  each layer in multilayer network represents  multi-steps in a computer program each layer of representation is a state in a sequence of executions greater depth implies more instructions in sequence not all information in a layer&amp;rsquo;s activation encodes factors of variation that explain the input!</description>
+      <description>introduction  deep learning solves the central problem in representation learning  find the right representation for data, e.g. polar vs rect coordinates   another perspective  each layer in multilayer network represents  multi-steps in a computer program each layer of representation is a state in a sequence of executions depth equiv. no instructions not all information in a layer&amp;rsquo;s activation encodes factors of variation that explain the input!</description>
     </item>
     
   </channel>
