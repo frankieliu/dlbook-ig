@@ -13,16 +13,17 @@
 
 #+STARTUP: indent hidestars showall
 * introduction
-- Deep learning solves the central problem in representation learning
-- problem: find the right representation for data, e.g. polar vs rect
-  coordinates
-** Another perspective
+- deep learning solves the central problem in representation learning
+  - find the right representation for data, e.g. polar vs rect
+    coordinates
+** another perspective
 - each layer in multilayer network represents
-  - multi-steps in a computer program
-  - each layer of representation is a state in a sequence of executions
-  - greater depth implies more instructions in sequence
-  - not all information in a layer's activation encodes factors of variation
+  + multi-steps in a computer program
+  + each layer of representation is a state in a sequence of executions
+  + depth equiv. no instructions
+  + not all information in a layer's activation encodes factors of variation
     that explain the input!  Representation also store state information that
     helps to execute a program
-* Depth of a model
-1. number of sequential instructions
+* depth of a model
+1. computational depth : number of sequential instructions
+2. depth of graph representing concepts PGM
