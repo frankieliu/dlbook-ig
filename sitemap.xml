@@ -3,26 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://frankliu.org/dlbook-ig/posts/my-first-post/</loc>
-    <lastmod>2019-11-05T18:54:39-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://frankliu.org/dlbook-ig/posts/</loc>
-    <lastmod>2019-11-05T18:54:39-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://frankliu.org/dlbook-ig/</loc>
-    <lastmod>2019-11-05T18:54:39-08:00</lastmod>
+    <loc>https://frankliu.org/dlbook-ig/posts/chapter01-introduction/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://frankliu.org/dlbook-ig/categories/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankliu.org/dlbook-ig/tags/dlbook/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankliu.org/dlbook-ig/categories/dlbook/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankliu.org/dlbook-ig/posts/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankliu.org/dlbook-ig/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://frankliu.org/dlbook-ig/tags/</loc>
+    <lastmod>2019-11-14T13:00:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankliu.org/dlbook-ig/posts/my-first-post/</loc>
+    <lastmod>2019-11-05T18:54:39-08:00</lastmod>
   </url>
   
 </urlset>

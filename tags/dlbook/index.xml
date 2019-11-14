@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading of Deep Learning book</title>
-    <link>https://frankliu.org/dlbook-ig/</link>
-    <description>Recent content on Reading of Deep Learning book</description>
+    <title>dlbook on Reading of Deep Learning book</title>
+    <link>https://frankliu.org/dlbook-ig/tags/dlbook/</link>
+    <description>Recent content in dlbook on Reading of Deep Learning book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 21:16:37 -0800</lastBuildDate>
     
-	<atom:link href="https://frankliu.org/dlbook-ig/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frankliu.org/dlbook-ig/tags/dlbook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://frankliu.org/dlbook-ig/posts/chapter01-introduction/</guid>
       <description>introduction  Deep learning solves the central problem in representation learning problem: find the right representation for data, e.g. polar vs rect coordinates  Another perspective  each layer in multilayer network represents  multi-steps in a computer program each layer of representation is a state in a sequence of executions greater depth implies more instructions in sequence not all information in a layer&amp;rsquo;s activation encodes factors of variation that explain the input!</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://frankliu.org/dlbook-ig/posts/my-first-post/</link>
-      <pubDate>Tue, 05 Nov 2019 18:54:39 -0800</pubDate>
-      
-      <guid>https://frankliu.org/dlbook-ig/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
